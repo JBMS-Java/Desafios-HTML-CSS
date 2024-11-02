@@ -27,12 +27,6 @@ header{
     text-align: center;
 }
 
-header{
-    background-color: black;
-    color: white;
-    text-align: center;
-}
-
 header > h1{
     font-family: var(--fonte2);
     padding-top: 50px;
